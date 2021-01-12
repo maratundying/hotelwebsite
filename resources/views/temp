@@ -1,0 +1,8 @@
+rooms-> id,name,price,reserved=0,reservation_date,
+
+
+reservations->id,name,phone,room_id,days,reservation_date,
+
+
+users->id,name,email,password;
+
